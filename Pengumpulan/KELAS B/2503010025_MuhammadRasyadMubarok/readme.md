@@ -3,7 +3,7 @@
 ## Informasi Pribadi
 - **NIM** : 2503010025
 - **Nama** : MUHAMMAD RASYAD MUBAROK
-- **Kelas** : A
+- **Kelas** : B
 
 ## Informasi Ujian
 - **Mata Kuliah** : Praktikum Algoritma dan Struktur Data
