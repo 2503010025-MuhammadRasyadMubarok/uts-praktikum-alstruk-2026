@@ -71,7 +71,7 @@ Pengumpulan/
 ## Informasi Pribadi
 - **NIM** : 2503010001
 - **Nama** : WAHYU_ADIWIBOWO
-- **Kelas** : A
+- **Kelas** : B
 
 ## Informasi Ujian
 - **Mata Kuliah** : Praktikum Algoritma dan Struktur Data
